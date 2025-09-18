@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Kingsley Kipkoech
 
-<!--
-**kingsleykipkoech/kingsleykipkoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 From Kenya | 💻 Aspiring Web Developer | ⚡ Cyberpunk-inspired Linux tinkerer  
+I’m learning frontend development step by step, building projects with **HTML, CSS, and JavaScript**.  
+My goal is to grow into a professional developer while showcasing my progress openly here on GitHub.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I Use
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Tools:** Git, GitHub, Linux (Xubuntu)  
+- **Design vibes:** Cyberpunk / futuristic UI  
+
+---
+
+## 📌 Featured Projects
+- 🌐 [**Kingsley’s Website**](https://kingsley-s-website-iota.vercel.app) – My personal portfolio site  
+- 🎨 [**Stylish Demo**](https://github.com/kingsleykipkoech/kingsleystylish) – Small HTML design project  
+- 🧪 [**Demo Repo**](https://github.com/kingsleykipkoech/demo-repo) – Experimentation and testing space  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsleykipkoech&show_icons=true&theme=radical)  
+
+---
+
+## 🌱 Current Focus
+- Improving my **frontend skills**  
+- Learning **clean GitHub workflows**  
+- Building small projects & leveling up my portfolio  
+
+---
+
+## 🤝 Connect With Me
+- ✉️ Email: kingsleykoech@gmail.com
+- 🌐 Portfolio: [kingsley-s-website-iota.vercel.app](https://kingsley-s-website-iota.vercel.app)  
+
+---
+
+✨ *Thanks for visiting! Follow my journey as I grow from beginner → professional developer.*  
