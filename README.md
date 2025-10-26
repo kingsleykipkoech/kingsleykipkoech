@@ -1,41 +1,22 @@
-# 👋 Hi, I'm Kingsley Kipkoech
+Kingsley Kipkoech 58flavour
 
-🌍 From Kenya | 💻 Aspiring Web Developer | ⚡ Cyberpunk-inspired Linux tinkerer  
-I’m learning frontend development step by step, building projects with **HTML, CSS, and JavaScript**.  
-My goal is to grow into a professional developer while showcasing my progress openly here on GitHub.  
+Welcome to my corner of the digital world! I'm a student committed to mastering the intersection of software development and system security. I'm showcasing my entire learning journey here on GitHub, transparently documenting every step I take to build resilient systems.
 
----
 
-## 🔧 Tech I Use
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Tools:** Git, GitHub, Linux (Xubuntu)  
-- **Design vibes:** Cyberpunk / futuristic UI  
-
----
-
-## 📌 Featured Projects
+📌 Featured Projects
 - 🌐 [**Kingsley’s Website**](https://kingsley-s-website-iota.vercel.app) – My personal portfolio site  
 - 🎨 [**Stylish Demo**](https://github.com/kingsleykipkoech/kingsleystylish) – Small HTML design project  
 - 🧪 [**Demo Repo**](https://github.com/kingsleykipkoech/demo-repo) – Experimentation and testing space  
 
 ---
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingsleykipkoech&show_icons=true&theme=radical)  
+## 🌱 Current FocusI’m currently focused on growing into a professional developer
 
 ---
 
-## 🌱 Current Focus
-- Improving my **frontend skills**  
-- Learning **clean GitHub workflows**  
-- Building small projects & leveling up my portfolio  
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect With Me @
 - ✉️ Email: kingsleykoech@gmail.com
 - 🌐 Portfolio: [kingsley-s-website-iota.vercel.app](https://kingsley-s-website-iota.vercel.app)  
 
 ---
-
-✨ *Thanks for visiting! Follow my journey as I grow from beginner → professional developer.*  
