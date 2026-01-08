@@ -31,18 +31,6 @@ I operate at the intersection of **secure systems development** and **network in
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingsleykipkoech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Kingsley's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsleykipkoech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingsleykipkoech&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🤝 Connect with Me
 
