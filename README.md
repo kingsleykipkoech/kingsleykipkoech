@@ -18,16 +18,7 @@ I am currently honing my craft at the **African Leadership University (ALU)**, f
   
 ---
 
-###  Tech Stack & Tools
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Security** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) _Nmap, Metasploit, Burp Suite, OpenSSL_ |
-| **Ops/Linux** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) _SSH, Vim, Tmux_ |
-| **Infrastructure** | _DevSecOps Pipelines, Cloud Security, Networking Protocols_ |
-
----
 
 
 ###  Connect with Me
