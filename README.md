@@ -1,26 +1,24 @@
 <div align="center">
 
-# Hi there, I'm Kingsley Kipkoech! 👋
+#  Kingsley Kipkoech
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E91E63&background=00000000&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Software+Developer;Linux+Power+User;Building+Resilient+Systems)](https://git.io/typing-svg)
 
 </div>
 
-### 🚀 Driven by a passion for architecting and securing robust technology infrastructure.
+###  Driven by a passion for architecting and securing robust technology infrastructure.
 
-I operate at the intersection of **secure systems development** and **network integrity**. I am currently honing my craft at the **African Leadership University (ALU)**, focusing on building resilient, scalable digital environments.
-
----
-
-### 🛡️ What I'm Focused On
-- 🔐 **DevSecOps:** Integrating security into the CI/CD pipeline from the first line of code.
-- 🐧 **Linux Systems:** Architecting and hardening environments via the Command Line.
-- 💻 **Secure Development:** Building software that is resilient by design, not by patch.
-- 📡 **Network Integrity:** Protecting complex systems against modern threat vectors.
+I am currently honing my craft at the **African Leadership University (ALU)**, focusing on building resilient, scalable digital environments.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### MY FOCUS
+- **Linux Systems:** Architecting and hardening environments via the Command Line.
+- **Secure Development:** Building software that is resilient by design
+  
+---
+
+###  Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -32,7 +30,7 @@ I operate at the intersection of **secure systems development** and **network in
 ---
 
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://kingsley-s-website-iota.vercel.app/" target="_blank">
